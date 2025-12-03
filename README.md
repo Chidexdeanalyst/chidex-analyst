@@ -1,1 +1,1 @@
-# chidex-analyst
+# chidex-de-analyst
